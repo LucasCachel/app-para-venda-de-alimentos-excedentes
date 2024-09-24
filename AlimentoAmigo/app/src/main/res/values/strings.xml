@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Alimento Amigo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_discover_maps">DiscoverMapsActivity</string>
+
+    <string name="price_normal"><strike>R$ 30.00</strike></string>
+
+    <string-array name="data_restaurant_name">
+        <item>Abella Padaria &amp; Bolos</item>
+    </string-array>
+
+    <string-array name="data_restaurant_highlight">
+        <item>Padaria</item>
+    </string-array>
+
+    <integer-array name="data_restaurant_photo">
+        <item>@drawable/image_bakery_restaurant</item>
+    </integer-array>
+
+    <string-array name="data_restaurant_description">
+        <item>Essa padaria vende comida premium, uma variedade de doces</item>
+    </string-array>
+
+
+    <string-array name="data_menu_nome">
+        <item>Croissant</item>
+        <item>Bolo Arco-íris</item>
+        <item>Pão Fateado</item>
+        <item>Brownies</item>
+        <item>Pretzel</item>
+    </string-array>
+
+    <string-array name="data_menu_estoque">
+        <item>3</item>
+        <item>2</item>
+        <item>5</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="data_menu_price">
+        <item>15</item>
+        <item>10</item>
+        <item>20</item>
+        <item>45</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="data_menu_normal_price">
+        <item>30</item>
+        <item>20</item>
+        <item>40</item>
+        <item>90</item>
+        <item>30</item>
+    </string-array>
+
+    <integer-array name="data_menu_photo">
+        <item>@drawable/image_menu_croissant</item>
+        <item>@drawable/image_menu_rainbow_cake</item>
+        <item>@drawable/image_menu_white_bread</item>
+        <item>@drawable/image_menu_brownies</item>
+        <item>@drawable/image_menu_pretzel</item>
+    </integer-array>
+
+    <string-array name="data_menu_descrição">
+        <item>Croissant vem da Áustria como kipferl. Este bolo fica muito brilhante porque é untado com manteiga antes de levar ao forno.</item>
+        <item>Um Delicioso Bolo para se divertir.</item>
+        <item>Um pão fresco, gostoso e macio.</item>
+        <item>Delicioso brownie que derrete na boca.</item>
+        <item>O Pretzel mais gostoso da região!</item>
+    </string-array>
+
+    <string-array name="data_menu_expira">
+        <item><strike>Expira em 25 Junho 2024</strike></item>
+        <item><strike>Expira em 25 Junho 2024</strike></item>
+        <item><strike>Expira em 25 Junho 2024</strike></item>
+        <item><strike>Expira em 25 Junho 2024</strike></item>
+        <item><strike>Expira em 25 Junho 2024</strike></item>
+    </string-array>
+
+    <string-array name="loc_nome">
+        <item>Restaurante 1</item>
+        <item>Restaurante 2</item>
+        <item>Restaurante 3</item>
+        <item>Restaurante 4</item>
+        <item>Restaurante 5</item>
+    </string-array>
+
+    <string-array name="latitude">
+        <item>-25.4284</item>
+        <item>-7.787359237017406</item>
+        <item>-7.777834091604044</item>
+        <item>-7.784298024209582</item>
+        <item>-7.791271546850344</item>
+    </string-array>
+
+    <string-array name="longitude">
+        <item>-49.2733</item>
+        <item>110.40486581417186</item>
+        <item>110.41379190488631</item>
+        <item>110.40074572228235</item>
+        <item>110.39181947968531</item>
+    </string-array>
+
+
+</resources>

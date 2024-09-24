@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535349636648",
+    "project_id": "alimentoamigo-5a709",
+    "storage_bucket": "alimentoamigo-5a709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535349636648:android:0bfdea546a562f58e54f1d",
+        "android_client_info": {
+          "package_name": "com.myapp.alimentoamigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApVhTJQbTVW8eovG_-ZHKNBti6G_ywxWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
